@@ -8,6 +8,7 @@ public class Hello_test {
 		System.out.println("로컬에서 추가");
 		System.out.println("Git Hub Edit");
 		System.out.println("Last local repository");
+		System.out.println("Last add");
 	}
 
 }
