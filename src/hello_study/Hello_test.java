@@ -6,6 +6,7 @@ public class Hello_test {
 		System.out.println("Hello Test");
 		System.out.println("Hello Two Test");
 		System.out.println("로컬에서 추가");
+		System.out.println("Git Hub Edit");
 	}
 
 }
